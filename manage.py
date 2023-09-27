@@ -19,7 +19,7 @@ def main():
             "forget to activate a virtual environment?"
         ) from exc
 
-        """ hello """
+        """ hello 1 """
     execute_from_command_line(sys.argv)
 
 
